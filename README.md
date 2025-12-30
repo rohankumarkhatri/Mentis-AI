@@ -25,3 +25,6 @@ Deployment reminders:
 - Only set the device firmware to use a public server IP if you intend to expose the service publicly; otherwise prefer private networking and firewall rules.
 
 For quick test set the public IP of your EC2 instance in the .ino file and load the api keys in the docker file python server.
+
+<img width="1200" height="1600" alt="image copy" src="https://github.com/user-attachments/assets/b04b3e01-7f6d-47f1-bf5e-3f88cec2991d" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/df0117c9-117c-4471-be1f-2ca6035bd74e" />
